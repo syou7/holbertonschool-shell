@@ -1,2 +1,2 @@
 #!/bin/bash
-find . –type f -size 0
+find . -type d -empty | rev
