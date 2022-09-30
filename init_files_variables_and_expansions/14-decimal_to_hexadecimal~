@@ -1,0 +1,2 @@
+#!/bin/bash
+printf echo $(($DECIMAL#16))
